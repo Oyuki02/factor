@@ -101,7 +101,6 @@ body{
 .img-funcionamiento{
     height: 275px;
     width: auto;
-
 }
 
 h2{
@@ -114,23 +113,25 @@ h2{
     padding-bottom: 2rem;
 }
 .beneficios{
-    background-image: url("img/FactorWeb-2.jpg");
+    background-image: url("img/FactorWeb-3.jpg");
     background-position: center;
     background-repeat: no-repeat;
     background-size: cover;
     height:375px;
 }
+
 .tit-2{
     font-weight: 500;
     margin-bottom: 1rem;
+}
+.b{
+    text-shadow: 1px 1px #000000;
 }
 .txt{
     color: #ffffff;
     font-size:1.375em;
     line-height: normal;
-    margin-bottom: 1.8rem;
-    text-shadow: 1px 1px #000000;
-    
+    margin-bottom: 1.8rem;  
 }
 .heavy{
     font-weight: 500;
@@ -227,7 +228,7 @@ font-weight: 100;
     width: 35px;
 }
 .txt-creditos{
-font-size: 1.375em;
+font-size: 1em;
 color: #8C9391;
 padding-top: 1.2rem;
 }
